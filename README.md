@@ -1,8 +1,8 @@
-Role Name
+Ansible role for Percona MySQL
 =========
 
-An ansible role for Percona MySQL which you can install and manage the server and the database itself. Which runs on Debian and Ubuntu
-RHEL installations will be imported asap.
+An ansible role for Percona MySQL which you can install and manage the server and the database itself. Also clients.
+ Which runs on Debian and Ubuntu.  RHEL installations will be imported asap.
 
 Requirements
 ------------
