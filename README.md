@@ -29,7 +29,6 @@ For extra, you can create all your databases and db-users like this in default/m
         # Users
         # Full Example:
         mysql_users:
-        
          - { name: test, 
              host: localhost, 
              password: t3st, 
