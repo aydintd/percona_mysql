@@ -1,16 +1,13 @@
-Ansible role for Percona MySQL
-=========
+## Ansible Role: percona_mysql
 
 An ansible role for Percona MySQL which you can install and manage the server and the database itself. Also clients.
  Which runs on Debian and Ubuntu.  RHEL installations will be imported asap.
 
-Requirements
-------------
+### Requirements
 
 python-mysql package should be installed before apply the role. (Actually role itself will do that in the main section, you don't have to install manually)
 
-Role Variables
---------------
+### Role Variables
 
 Percona MySQL will be installed default 5.6 version.
 
@@ -35,14 +32,11 @@ For extra, you can create all your databases and db-users like this in default/m
              priv: "test.*:ALL"
            }
         
-Dependencies
-------------
+### Dependencies
 
 No dependencies at all.
 
-Example Playbook
-----------------
-
+### Example Playbook
         ---
         - hosts: default
           sudo: true
@@ -60,13 +54,11 @@ Example Playbook
           roles:
             - aydintd.percona_mysql
         
-License
--------
+### License
 
 GPLv2
 
-Author Information
-------------------
+### Author Information
 
 - Aydın Doyak 
 - Linux System Administrator 
