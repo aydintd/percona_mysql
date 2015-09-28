@@ -60,7 +60,7 @@ GPLv2
 
 ### Author Information
 
-- Aydın Doyak 
+- Aydin Doyak 
 - Linux System Administrator 
 - http://aydintd.net
 
