@@ -1,4 +1,4 @@
-[![Ansible Galaxy](https://img.shields.io/badge/ansible--galaxy-percona__mysql-blue.svg)](https://galaxy.ansible.com/list#/roles/5068) [![Build Status](https://travis-ci.org/systemli/ansible-sshd.svg)](https://travis-ci.org/systemli/percona_mysql)
+[![Ansible Galaxy](https://img.shields.io/badge/ansible--galaxy-percona__mysql-blue.svg)](https://galaxy.ansible.com/list#/roles/5068) [![Build Status](https://travis-ci.org/systemli/ansible-sshd.svg)](https://travis-ci.org/aydintd/percona_mysql)
 
 
 # Ansible Role: percona_mysql
