@@ -1,3 +1,6 @@
+[![Ansible Galaxy](http://img.shields.io/badge/ansible--galaxy-sshd-blue.svg)](https://galaxy.ansible.com/list#/roles/5068) [![Build Status](https://travis-ci.org/systemli/ansible-sshd.svg)](https://travis-ci.org/systemli/percona_mysql)
+
+
 # Ansible Role: percona_mysql
 
 An ansible role for Percona MySQL which you can install and manage the server and the database itself. Also clients.
